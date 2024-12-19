@@ -25,7 +25,7 @@ export default function HomePage() {
               <p className="text-gray-600 text-sm mb-4">{post.description}</p>
               <Link
                 href={`/blog/${post.id}`}
-                className="inline-block px-6 py-2 bg-blue-600 text-white rounded-lg text-sm font-medium hover:bg-blue-700 transition-all"
+                className="inline-block px-6 py-2 bg-blue-600 text-white rounded-lg text-sm font-medium hover:font-bold transition-all"
               >
                 Read More
               </Link>

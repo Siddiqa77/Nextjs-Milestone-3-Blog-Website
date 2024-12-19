@@ -14,9 +14,9 @@ const CommentSection: React.FC = () => {
   };
 
   return (
-    <div>
-      <h2 className="text-2xl font-semibold mb-4">Comments</h2>
-      <div className="mb-4">
+    <div className="wrapper">
+      <h2 className="text-2xl font-semibold mb-4 family">Comments</h2>
+      <div className="mb-5 ">
         {comments.length > 0 ? (
           comments.map((comment, index) => (
             <div
@@ -38,7 +38,7 @@ const CommentSection: React.FC = () => {
         onChange={(e) => setNewComment(e.target.value)}
       />
       <button
-        className="bg-blue-600 text-white px-4 py-2 rounded hover:bg-blue-700"
+        className="bg-blue-600 text-white px-4 py-2 rounded hover:font-bold"
         onClick={handleAddComment}
       >
         Add Comment
