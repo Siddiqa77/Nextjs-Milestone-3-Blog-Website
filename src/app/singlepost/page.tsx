@@ -29,23 +29,23 @@ const SinglePost = () => {
         {/* Post Content */}
         <div className="text-[#3b3c4a] text-base md:text-xl leading-relaxed">
           <p>
-            Traveling is an enriching experience that opens up new horizons, exposes us to different cultures, and creates memories that last a lifetime. 
-            However, traveling can also be stressful and overwhelming, especially if you don't plan and prepare adequately. In this blog article, we'll explore tips and tricks for a memorable journey and how to make the most of your travels.
+            Traveling is an enriching experience that opens up new horizons&rsquo;exposes us to different cultures&rsquo; and creates memories that last a lifetime. 
+            However&Isquo; traveling can also be stressful and overwhelming&Isquo; especially if you don&apos;t plan and prepare adequately. In this blog articleIsquo; we&apos;ll explore tips and tricks for a memorable journey and how to make the most of your travels.
           </p>
           <p>
-            One of the most rewarding aspects of traveling is immersing yourself in the local culture and customs. This includes trying local cuisine, 
-            attending cultural events and festivals, and interacting with locals. Learning a few phrases in the local language can also go a long way in making connections and showing respect.
+            One of the most rewarding aspects of traveling is immersing yourself in the local culture and customs. This includes trying local cuisine&rsquo; 
+            attending cultural events and festivals&rsquo; and interacting with locals. Learning a few phrases in the local language can also go a long way in making connections and showing respect.
           </p>
         </div>
 
         {/* Sections */}
 <section>
-Before embarking on your journey, take the time to research your destination. This includes understanding the local culture, customs, and laws, as well as identifying top attractions, restaurants, and accommodations.
+Before embarking on your journey&rsquo; take the time to research your destination. This includes understanding the local culture, customs, and laws, as well as identifying top attractions, restaurants, and accommodations.
 
 </section>
 
          <section title="Stay Hydrated">
-         Drink plenty of water throughout your trip. This can help you feel more alert and energized, and it can also help you stay hydrated throughout the day.
+         Drink plenty of water throughout your trip. This can help you feel more alert and energized&rsquo; and it can also help you stay hydrated throughout the day.
          </section>
       
 
@@ -54,12 +54,12 @@ Before embarking on your journey, take the time to research your destination. Th
         </section>
 
         <section title="Plan Your Itinerary">
-          While it's essential to leave room for spontaneity, having a rough itinerary can help you make the most of your time and budget. Prioritize the must-see sights and experiences.
+          While it&apos;s essential to leave room for spontaneity, having a rough itinerary can help you make the most of your time and budget.  Prioritize the must see sights and experiences.
         </section> 
 
         {/* Quote */}
         <blockquote className="p-6 bg-[#f6f6f7] rounded-xl border-l-4 border-[#e8e8ea] text-[#181a2a] text-lg md:text-xl italic">
-          "Traveling can expose you to new environments and potential health risks, so it's crucial to take precautions to stay safe and healthy."
+          &quot;Traveling can expose you to new environments and potential health risks&rsquo;so it&apos;s crucial to take precautions to stay safe and healthy.&quot;
         </blockquote>
 
         {/* Another Image */}
@@ -75,11 +75,11 @@ Before embarking on your journey, take the time to research your destination. Th
         {/* Additional Sections */}
        
         <section title="Pack Lightly and Smartly">
-          Packing can be a daunting task, but with some careful planning, you can pack light and efficiently.
+          Packing can be a daunting task&rsquo; but with some careful planning, you can pack light and efficiently.
         </section>
 
         <section title="Stay Safe and Healthy">
-          Traveling can expose you to new environments and potential health risks, so it's crucial to take precautions to stay safe and healthy.
+          Traveling can expose you to new environments and potential health risks&rsquo;so it&apos;s crucial to take precautions to stay safe and healthy.
         </section>
 
         <section title="Immerse Yourself in the Local Culture">
@@ -87,7 +87,7 @@ Before embarking on your journey, take the time to research your destination. Th
         </section>
 
         <section title="Capture Memories">
-          Finally, don't forget to capture memories of your journey.
+          Finally, don&apos;t forget to capture memories of your journey.
         </section>
          
 
@@ -96,7 +96,7 @@ Before embarking on your journey, take the time to research your destination. Th
         </section>
 
         <section title="Capture Memories">
-          Finally, don't forget to capture memories of your journey.
+          Finally, don&apos;t forget to capture memories of your journey.
         </section> 
       </div>
     </div>
