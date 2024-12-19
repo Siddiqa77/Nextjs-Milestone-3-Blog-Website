@@ -142,14 +142,14 @@ export default function Navbar() {
             Home
           </Link>
           <Link
-            href="/gallery"
+            href="/blog"
             onClick={() => setIsMenuOpen(false)}
             className="text-[#181A2A] hover:text-red-800 hover:font-bold"
           >
             Blog
           </Link>
           <Link
-            href="/blogdata"
+            href="/singlepost"
             onClick={() => setIsMenuOpen(false)}
             className="text-[#181A2A] hover:text-red-800 hover:font-bold"
           >
